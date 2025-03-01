@@ -1,6 +1,6 @@
 # Awesome Wonderland Engine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="WonderlandLogo.jpg" align="right" width="100">](https://immersiveweb.dev/)
+[<img src="WonderlandLogo.png" align="right" width="100">](https://immersiveweb.dev/)
 
 > A curated list of Wonderland Engine links and resources.
 
